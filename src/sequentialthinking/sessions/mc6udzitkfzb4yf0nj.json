@@ -1,0 +1,46 @@
+{
+  "id": "mc6udzitkfzb4yf0nj",
+  "title": "Solution Planning: Need to choose technology stack for new project...",
+  "type": "solution-planning",
+  "thoughts": [],
+  "created": "2025-06-21T23:00:36.245Z",
+  "updated": "2025-06-21T23:00:36.245Z",
+  "status": "active",
+  "metadata": {
+    "problem": "Need to choose technology stack for new project",
+    "solutions": [
+      {
+        "title": "React + Node.js",
+        "description": "Modern JavaScript stack",
+        "pros": [
+          "Fast development",
+          "Large community",
+          "Good performance"
+        ],
+        "cons": [
+          "Rapid changes",
+          "Learning curve"
+        ],
+        "effort": "medium",
+        "impact": "high",
+        "risk": "low"
+      },
+      {
+        "title": "Python + Django",
+        "description": "Mature Python framework",
+        "pros": [
+          "Stable",
+          "Secure",
+          "Well documented"
+        ],
+        "cons": [
+          "Slower development",
+          "Less modern"
+        ],
+        "effort": "low",
+        "impact": "medium",
+        "risk": "low"
+      }
+    ]
+  }
+}
