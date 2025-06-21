@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "sequential-thinking-local": {
+      "command": "node",
+      "args": [
+        "/home/martin-m/servers/src/sequentialthinking/dist/index.js"
+      ]
+    }
+  }
+}
